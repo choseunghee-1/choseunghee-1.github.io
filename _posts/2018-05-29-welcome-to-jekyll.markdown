@@ -2,7 +2,7 @@
 layout: post
 title:  "2018년도 프로젝트"
 date:   2018-05-29 18:05:55 +0300
-image:  10.jpg
+image:  ![1_](C:\Users\billo\Desktop\1_.png)
 tags:   2018년
 ---
 1. 2018-03 ~ 2018-05
