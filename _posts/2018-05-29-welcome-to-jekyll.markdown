@@ -1,23 +1,35 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "2018년도 프로젝트"
 date:   2018-05-29 18:05:55 +0300
 image:  10.jpg
 tags:   Jekyll
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+2018. 03 ~ 2018. 05
+   - 국내 관광지 소개 페이지
+    . 신입이 업무하기 좋은 유지보수를 담당했습니다. 
+      관공소였던 한국관광공사 홈페이지를 유지보수를 맡아 관리하였습니다.
+      해당 프로젝트의 유지보수는 단순 이미지 변경 및 추가와 텍스트 수정을 맡았었습니다.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+2018. 04 ~ 2018. 05
+   - 한국야쿠르트 SUPER100 프로모션 이벤트 페이지 개발 / 운영
+    . 부사수로 FRONT-END 직무를 맡아 수행했습니다.
+     
+2018. 05 ~ 2018. 06
+   - 한국야쿠르트 Eatson 하이프레시 이벤트 개발 / 운영
+    . FRONT-END 직무를 맡아 수행했습니다.
+    
+2018. 06 ~ 2018. 12
+   - 여성가족부 성폭력 예방 홈페이지 개발 / 운영
+    . 처음으로 SI업무를 맡게된 프로젝트입니다. 
+      부사수로 FRONT-END 직무를 맡아 수행했습니다.
+    
+2018. 10 ~ 2018. 12
+   - 사내 솔루션 개발 프로젝트 개발
+    . 기업 임원의 부재를 안내하는 시스템을 개발하였습니다.
+    . 개발 기술: ELECTRON
+      처음 ELECTRON을 접하였고, 재미있었고 기억에 많이 남는 프로젝트입니다.
+      
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
