@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  2년차 
+title:  2년차 개발 일지
 date:   2019-01-01 00:00:00 +0300
 image:  10.jpg
 tags:   2019.
