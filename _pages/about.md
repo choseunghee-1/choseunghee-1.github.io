@@ -26,7 +26,7 @@ image: 01.jpg
   
 #THYMELEAF #NODEJS #ELECTRON #HIBRIDAPP #MSSQL #ADB  
   
-
+  
 #### SOCIAL EXPERIENCE
 <small>2018-01 ~ </small>
   - (주)지원앤컴 재직중
