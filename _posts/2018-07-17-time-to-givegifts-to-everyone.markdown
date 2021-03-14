@@ -2,7 +2,7 @@
 layout: post
 title:  "4년차 개발 일지"
 date:   2021-01-01 15:01:35 +0300
-image:  04.jpg
+image:  skrent.jpg
 tags:   2021.
 ---
  2021-02 ~  
