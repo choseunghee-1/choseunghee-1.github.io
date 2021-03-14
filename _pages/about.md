@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: 01.jpg
+image: 14.jpg
 ---
 
 18년도 개발자 입문 JQUERY를 시작으로 현재까지 풀스택을 개발했습니다.
