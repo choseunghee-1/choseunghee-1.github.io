@@ -17,14 +17,15 @@ tags:   2019.
    . 개발 기술: node.js + android + mysql  
    . 운영 체제: centos6  
    . 형상관리 도구: git  
-   . 기타: 골존 데이터 연동을 위한 restApi 연동
+   . 기타: 골존 데이터 연동을 위한 restAPI 연동
    
  2019-05 ~ 06
   - 성남시(공공기관) MARKETplace 데이터 쇼핑몰 서비스 페이지 개발  
    . 개발 기술: spring + security + maven + jquery + tiles + jstl + mybatis + mysql  
    . 운영 체제: centos6  
    . 형상관리 도구: git  
-   . 협업 도구: redmine  
+   . 협업 도구: redmine 
+   . 기타: openAPI를 통한 데이터 연동
    
  2019-04 ~ 12
   - (주)SK텔레콤 옥수수 서비스 유지보수  
