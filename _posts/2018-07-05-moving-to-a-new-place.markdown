@@ -19,7 +19,8 @@ tags:   2020.
    . 적용 기술: spring boot + maven + jquery + tiles + jstl + mybatis + mysql  
    . 운영 체제: azure ec2  
    . 형상관리 도구: bitbucket  
-   . 협업 도구: redmine + slack     
+   . 협업 도구: redmine + slack  
+   . 기타: restApi를 통한 협력업체 데이터 공유 시스템 개발
    
  2020-03 ~ 06  
   - (주)SK 렌터카 O-CAR 부품 재고 관리 모바일 웹 개발  
